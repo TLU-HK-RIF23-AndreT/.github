@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋
+
+My name is Andre Toompalu. I like cats, cheese and computers.
+
+Here is a picture:
+
+![IMG-20230813-WA0012](https://github.com/TLU-HK-RIF23-AndreT/.github/assets/143062284/ffb09a5e-c7c1-4cb0-bc64-b109f4d57a5c)
+
+Thank you for visiting.
 
 <!--
 
