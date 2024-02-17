@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there
+
+Welcome to my page. 
+
+### Vincit qui se vincit.
 
 <!--
 
