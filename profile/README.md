@@ -1,8 +1,14 @@
-## Hello there
+## Hello there traveller :camping:	
 
-Welcome to my page. 
+My name is Andre.
 
-### Vincit qui se vincit.
+Welcome to my page. :sunglasses:	
+
+![image](https://github.com/TLU-HK-RIF23-AndreT/.github/assets/143062284/44d9365a-9667-48bf-b4a4-fab0e7351781)
+
+>Ronja enjoying the morning view from the bedroom window. :cat2:	
+
+*Vincit qui se vincit.*
 
 <!--
 
